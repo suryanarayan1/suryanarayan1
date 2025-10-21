@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Surya Narayan**  
+# 👋 Hi, I'm **Surya Narayan Maurya**  
 ### 🚀 AI Data Annotation Specialist | Web Developer | E-commerce & Tech Enthusiast  
 
 💡 Passionate about AI, e-commerce technologies, software testing, and building digital solutions that drive user experience and business growth.
