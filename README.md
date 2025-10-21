@@ -51,7 +51,7 @@ Previously, I completed a **Web Development Internship (June 2025)** and built m
 
 ---
 
-## 📊 GitHub Stats (Auto-generated)
+## 📊 GitHub Stats
 
 ![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryanarayan1&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanarayan1&layout=compact)
@@ -74,7 +74,7 @@ Previously, I completed a **Web Development Internship (June 2025)** and built m
 
 ## 🤝 Connect with Me  
 
-🌐 **Portfolio (Coming Soon)**  
+🌐 **Portfolio**  
 💼 **LinkedIn:** [linkedin.com/in/suryannm](https://www.linkedin.com/in/suryannm)  
 📧 **Email:** suryanarayan4755@gmail.com  
 📍 **GitHub:** [github.com/suryanarayan1](https://github.com/suryanarayan1)  
